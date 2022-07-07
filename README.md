@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pragati0302
-- 👀 I’m interested in Frontend Development, C programming and consulting.
+- 👀 I’m interested in Frontend Development, Java programming and consulting.
 - 🌱 I’m currently learning Backend Development and Data structures.
 - 💞️ I’m looking to collaborate on frontend projects and live projects.
 - 📫 How to reach me: Mail me at priyadarshinip.1234@gmail.com
